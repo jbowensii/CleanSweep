@@ -1,0 +1,21 @@
+# UE4 .gitignore
+
+# Built files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Packed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
