@@ -1,0 +1,20 @@
+# UE4 Generated folders
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# UE4 Generated files
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcworkspace
+*.xcodeproj
+*_BuiltData.uasset
+
+# OS files
+.DS_Store
+Thumbs.db
