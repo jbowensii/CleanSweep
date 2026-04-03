@@ -1,3 +1,4 @@
+
 # UE4 Generated folders
 DerivedDataCache/
 Intermediate/
@@ -18,6 +19,11 @@ WindowsNoEditor/
 
 # UE4 PrimaryAssetLabel files (game-internal, cause cook conflicts)
 DA_*.uasset
+
+# Final Build - exclude large binary pak files, keep zip only
+Tools/Final Build/*.pak
+Tools/Final Build/*.ucas
+Tools/Final Build/*.utoc
 
 # OS files
 .DS_Store
