@@ -1,6 +1,10 @@
 # CleanSweep Release 1.0 Beta
 ## Release Notes
 
+> ⚠️ **Only use this on finished worlds please that you want to build in, please report issues on GitHub. This is an Unreal Engine Editor mod... it should conflict with nothing... it removes the majority of trash laying around the world that you cannot destroy yourself. If you want the trash back just uninstall it.**
+
+---
+
 **Version:** 1.0.0  
 **Tag:** v1.0.0  
 **Date:** April 3, 2026  
