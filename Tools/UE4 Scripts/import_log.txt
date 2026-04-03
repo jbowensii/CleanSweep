@@ -1,0 +1,8 @@
+Destination: /Game/Art/Assets/Kits/Misc/Dirt_Mounds/Deco_Tagged
+Assets to create: 2
+Queued: Suburbs_Dirt_Mound_B
+Queued: Suburbs_Dirt_Mound_C
+Importing...
+  IMPORTED: Suburbs_Dirt_Mound_B
+  IMPORTED: Suburbs_Dirt_Mound_C
+Done! Success: 2  Failed: 0
