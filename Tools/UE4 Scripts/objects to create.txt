@@ -1,4 +1,6 @@
-/Game/LevelDesign/Deco/Nests_Deco
-DA_Debris22
-BearNest_Deco_PH
-BearNest_Deco_PH_A
+/Game/Unshippable/Whitebox/Rocks/Meshes/DecoTagged
+PWM_City_1X1x1_C_Tagged
+PWM_City_RockDebris_A_Tagged
+PWM_Quarry_RockDebris_A_Tagged
+SM_Debris_Floor_01_Tagged
+SM_Debris_Floor_02_Tagged

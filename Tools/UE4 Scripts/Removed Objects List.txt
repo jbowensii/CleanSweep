@@ -49,6 +49,8 @@ Suburbs_Floor_Stone_IND_D
 Suburbs_Floor_Stone_IND_E
 Suburbs_Floor_Stone_IND_F
 Suburb_Stairs_Trim_Ruin_3M
+SM_AR_City_Column_100x100x200_A_Base_Decayed
+SM_AR_City_Column_100x100x200_A_Shaft_Broken
 
 /Game/Art/Assets/Kits/Architecture/Suburbs/Deco_Tagged
 DA_Debris05
@@ -543,22 +545,10 @@ DetailRope8
 
 /Game/Unshippable/Whitebox/Rocks/Destructibles
 DA_Debris26
-DM_PWM_Quarry_1x1x1_A_Destructible
-DM_PWM_Quarry_1X1x1_C_Destructible
 DM_PWM_Quarry_RockDebris_A_Destructible
-NO-DM_PWM_Quarry_2x2x2_A_Destructible
 
 /Game/Unshippable/Whitebox/Rocks/Meshes
 DA_Debris27
-NO-PWM_City_1x1x1_A_
-NO-PWM_City_1X1x1_C
-NO-PWM_City_2x2x2_A
-NO-PWM_Nordic_1x1x1_A
-NO-PWM_Nordic_1X1x1_B
-NO-PWM_Nordic_1X1x1_C
-NO-PWM_Nordic_1X1x1_D
-NO-PWM_Nordic_2x2x2
-NO-PWM_Quarry_2x2x2_A
 PWM_City_RockDebris_A
 PWM_Deep_1x1x1_A
 PWM_Deep_1X1x1_C
@@ -579,21 +569,3 @@ PWM_City_RockDebris_A_Tagged
 PWM_Quarry_RockDebris_A_Tagged
 SM_Debris_Floor_01_Tagged
 SM_Debris_Floor_02_Tagged
-
-
-
-
-FIND LATER
-
-PWM_Quarry_1x1x1_A
-PWM_Quarry_1x1x1_B
-PWM_Quarry_1X1x1_C
-PWM_Quarry_RockDebris_A
-PWM_Quarry_RockDebris_A_Optimized
-PWM_Quarry_RockDebris_B
-PWM_Quarry_RockDebris_C
-Ruin_Wall_Thin_3x1m_B_OFFSET_PIVOT
-SM_AR_City_Column_100x100x200_A_Base_Decayed
-SM_AR_City_Column_100x100x200_A_Shaft_Broken
-SM_Debris_Floor_01
-SM_Debris_Floor_02

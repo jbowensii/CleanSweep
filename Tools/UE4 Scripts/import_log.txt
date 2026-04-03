@@ -1,8 +1,14 @@
-Destination: /Game/Art/Assets/Kits/Misc/Dirt_Mounds/Deco_Tagged
-Assets to create: 2
-Queued: Suburbs_Dirt_Mound_B
-Queued: Suburbs_Dirt_Mound_C
+Destination: /Game/Unshippable/Whitebox/Rocks/Meshes/DecoTagged
+Assets to create: 5
+Queued: PWM_City_1X1x1_C_Tagged
+Queued: PWM_City_RockDebris_A_Tagged
+Queued: PWM_Quarry_RockDebris_A_Tagged
+Queued: SM_Debris_Floor_01_Tagged
+Queued: SM_Debris_Floor_02_Tagged
 Importing...
-  IMPORTED: Suburbs_Dirt_Mound_B
-  IMPORTED: Suburbs_Dirt_Mound_C
-Done! Success: 2  Failed: 0
+  IMPORTED: PWM_City_1X1x1_C_Tagged
+  IMPORTED: PWM_City_RockDebris_A_Tagged
+  IMPORTED: PWM_Quarry_RockDebris_A_Tagged
+  IMPORTED: SM_Debris_Floor_01_Tagged
+  IMPORTED: SM_Debris_Floor_02_Tagged
+Done! Success: 5  Failed: 0
