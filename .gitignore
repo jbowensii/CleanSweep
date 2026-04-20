@@ -1,30 +1,19 @@
+# Build output
+cleansweep/
+cleansweep_debug/
+cleansweep_test/
+cleansweep_test2/
+Modified_Bubbles/
 
-# UE4 Generated folders
-DerivedDataCache/
-Intermediate/
-Saved/
-Build/
-WindowsNoEditor/
-
-# UE4 Generated files
-*.VC.db
-*.opensdf
-*.opendb
-*.sdf
-*.sln
-*.suo
-*.xcworkspace
-*.xcodeproj
-*_BuiltData.uasset
-
-# UE4 PrimaryAssetLabel files (game-internal, cause cook conflicts)
-DA_*.uasset
-
-# Final Build - exclude large binary pak files, keep zip only
-Tools/Final Build/*.pak
-Tools/Final Build/*.ucas
-Tools/Final Build/*.utoc
+# Python
+__pycache__/
+*.pyc
 
 # OS files
 .DS_Store
 Thumbs.db
+*.lnk
+
+# IDE
+.vscode/
+*.code-workspace
