@@ -202,9 +202,6 @@
       "typeRule": "PWM_City_RockDebris_A-ProcMaterial_City_RockDebris_A-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "PWM_Quarry_3x3x2-ProcMaterial_City_2m-BlockAll-dcl-L100"
-    },
-    {
       "typeRule": "PWM_Quarry_RockDebris_A_Tagged-ProcMaterial_Quarry_Atlas-BlockAll-dcl-L100"
     },
     {
@@ -298,9 +295,6 @@
       "typeRule": "D_Weapon_Rohan-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "AB_Mines_Scaffolding_Platform_3x3x3_Open-BlockAll-dcl-L100"
-    },
-    {
       "typeRule": "DetailRope5-RopeDetails_M-BlockAll-dcl-L100"
     },
     {
@@ -334,12 +328,6 @@
       "typeRule": "PWM_City_RockDebris_A_Tagged-ProcMaterial_City_RockDebris_A-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "PWM_Quarry_1X1x1_C-ProcMaterial_City_1m_C-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "PWM_Quarry_1x1x1_A-ProcMaterial_City_1m-BlockAll-dcl-L100"
-    },
-    {
       "typeRule": "Rubble_Masonry_single_rock-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
     },
     {
@@ -362,6 +350,123 @@
     },
     {
       "typeRule": "Suburbs_Column_Large_A_A_Base_Ruined-MI_Suburbs_Column_Large_A_Base_Ruined-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_B-MI_DirtMound_Mines-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_B-MI_Mines_Dirt-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_B-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_02-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_03-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_04-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_05-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_06-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_07-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A-ProcMaterial_Quarry_Atlas_5-NoCollision-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A-ProcMaterial_Quarry_RockDebris_A-NoCollision-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A-ProcMaterial_City_RockDebris_A-NoCollision-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A_Tagged-ProcMaterial_Quarry_Atlas_5-NoCollision-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A_Tagged-ProcMaterial_Quarry_Atlas_5-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A_Optimized-ProcMaterial_Quarry_RockDebris_A-NoCollision-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_01-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_03-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_05-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_08-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_09-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_10-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_11-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_17-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_18-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_20-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_22-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Rubble_Masonry_single_rock_24-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dwelling_Scatter_Clothing_Shoes_A-MI_Dwelling_Scatter_Clothing_Shoes-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dwelling_Scatter_Clothing_Shoes_C-MI_Dwelling_Scatter_Clothing_Shoes-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Floor_Stone_IND_A-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Floor_Stone_IND_B-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Floor_Stone_IND_C-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Floor_Stone_IND_D-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Floor_Stone_IND_E-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Floor_Stone_IND_F-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "BP_DM_Mine_tailings_Debris-Breakable-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_K-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_Flat_D-MI_DirtMound_Mines-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Fort_9X9_Mound-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
     }
   ],
   "bubble_type_rules": [],
@@ -1384,36 +1489,6 @@
         7587.88,
         6487.33,
         5151.87
-      ]
-    },
-    {
-      "mesh": "Ruin_Column_Medium_A_2_Base-MI_Ruin_Column_Mat_A-BlockAll-dcl-L100",
-      "bubble": "The_Desolation",
-      "bubbleName": "The Desolation",
-      "world": [
-        106223.56,
-        91922.17,
-        655.39
-      ],
-      "local": [
-        7173.56,
-        6022.17,
-        5355.39
-      ]
-    },
-    {
-      "mesh": "Ruin_Column_Medium_A_2_Shaft-MI_Ruin_Column_Mat_A-BlockAll-dcl-L100",
-      "bubble": "The_Desolation",
-      "bubbleName": "The Desolation",
-      "world": [
-        106059.87,
-        91619.45,
-        727.47
-      ],
-      "local": [
-        7009.87,
-        5719.45,
-        5427.47
       ]
     },
     {
@@ -6304,6 +6379,21 @@
         -3874.38,
         3725.98,
         707.6
+      ]
+    },
+    {
+      "mesh": "Ruins_Stairs_Small_D-MI_Suburbs_Stairs_01-MI_Suburbs_Stairs_02-MI_Rubble_Masonry_Pile_Base_Inst-BlockAll-dcl-L100",
+      "bubble": "The_Desolation",
+      "bubbleName": "The Desolation",
+      "world": [
+        114650.0,
+        90050.0,
+        1600.0
+      ],
+      "local": [
+        15600.0,
+        4150.0,
+        6300.0
       ]
     }
   ],
