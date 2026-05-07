@@ -2,13 +2,13 @@
 
 Batch object removal mod that removes clutter, debris, and unwanted decorative objects from BubbleData files. Produces an IoStore mod pak (.pak/.ucas/.utoc) that loads in-game.
 
-## Current Version: v3.0.0
+## Current Version: v3.1.0
 
 - **100 per-bubble JSON removal specs** covering all 86 unique uassets (87 mapped)
-- **195 global type rules** applied uniformly across every bubble
+- **225 global type rules** applied uniformly across every bubble (+30 from v3.0.0)
 - **46 bubble-scoped type rules** for location-specific removals
 - **4,872 position entries** for precise individual object removal
-- Removes: dirt mounds, spider webs, ruined columns, banners, rugs, rubble, debris, scaffolding, orc fortifications, and more
+- Removes: dirt mounds, spider webs, ruined columns, banners, rugs, rubble, debris, scaffolding, orc fortifications, PWM procedural filler chunks (city + quarry), and more
 
 ## Quick Start
 
@@ -16,7 +16,7 @@ Batch object removal mod that removes clutter, debris, and unwanted decorative o
 python scripts/BuildCleanSweep.py
 ```
 
-Output: `~/Downloads/CleanSweep_v3.0.0.zip`
+Output: `~/Downloads/CleanSweep_v3.1.0.zip`
 
 Extract the zip contents to your game's Paks folder:
 ```

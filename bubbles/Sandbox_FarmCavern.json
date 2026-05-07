@@ -7,10 +7,82 @@
   ],
   "global_type_rules": [
     {
+      "typeRule": "BP_DM_Deco_Orc_Banner-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "BP_DM_Mine_tailings_Debris-Breakable-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "BP_DM_Warren_lighting_Banner-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "City_Floor_3x3m_Detail_A-MI_City_Floor-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "City_Floor_3x3m_Detail_B-MI_City_Floor-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "D_Weapon_IronHills-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "D_Weapon_Khazad-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "D_Weapon_Rohan-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "D_Weapon_Steel-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_BoneHoard_B-BoneHoard_Bone_Mount_Inst1-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_BoneHoard_E-BoneHoard_Bone_Mount_Inst1-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_A-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_B-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_C-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_D_L-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_D_R-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_Detail-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_F-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_G-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_H-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_I-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalBrace_J-MI_Deep_MetalBrace-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_MetalCage-MI_Suburbs_Trim_Sheet_B-BlockAll-dcl-L100"
+    },
+    {
       "typeRule": "Deep_MetalCage_Large-MI_Suburbs_Trim_Sheet_B-Destructible-3F-dcl-L100"
     },
     {
       "typeRule": "Deep_WoodenBeam_A-MI_Deep_WoodTrim-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Deep_WoodenBeam_B-MI_Deep_WoodTrim-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Deep_WoodenBeam_C-MI_Deep_WoodTrim-BlockAll-dcl-L100"
@@ -28,10 +100,16 @@
       "typeRule": "DetailRope4-RopeDetails_M-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "DetailRope5-RopeDetails_M-BlockAll-dcl-L100"
+    },
+    {
       "typeRule": "Dirt_Mound_A-City_Dirt_Inst_Darker-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Dirt_Mound_A-MI_DirtMound_Mines-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_A-MI_Mines_Dirt-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Dirt_Mound_A-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
@@ -41,6 +119,9 @@
     },
     {
       "typeRule": "Dirt_Mound_B-MI_DirtMound_Mines-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_B-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Dirt_Mound_B-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
@@ -55,10 +136,19 @@
       "typeRule": "Dirt_Mound_C-MI_DirtMound_Suburbs_Dirt-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "Dirt_Mound_C-MI_DirtMound_Suburbs_Dirt-Destructible-3F-dcl-L100"
+    },
+    {
       "typeRule": "Dirt_Mound_C-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Dirt_Mound_D-City_Dirt_Inst_Darker-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_D-MI_Mines_Dirt-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_D-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Dirt_Mound_D-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
@@ -67,7 +157,19 @@
       "typeRule": "Dirt_Mound_E-City_Dirt_Inst_Darker-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "Dirt_Mound_E-MI_DirtMound_Suburbs_Dirt-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_E-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
       "typeRule": "Dirt_Mound_E-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_F-City_Dirt_Inst_Darker-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_F-Outdoor_Snow_Inst-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Dirt_Mound_F-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
@@ -88,7 +190,13 @@
       "typeRule": "Dirt_Mound_G-MI_DirtMound_Suburbs_Dirt-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "Dirt_Mound_G-MI_DirtMound_Suburbs_Dirt-Destructible-3F-dcl-L100"
+    },
+    {
       "typeRule": "Dirt_Mound_G-MI_Mines_Dirt-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_G-Outdoor_Snow_Inst-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Dirt_Mound_G-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
@@ -118,6 +226,9 @@
       "typeRule": "Dirt_Mound_H-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "Dirt_Mound_H-Suburbs_Dirt_Inst-Destructible-3F-dcl-L100"
+    },
+    {
       "typeRule": "Dirt_Mound_H-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
     },
     {
@@ -139,19 +250,61 @@
       "typeRule": "Dirt_Mound_I-MI_Mines_Dirt-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "Dirt_Mound_I-Outdoor_Snow_Inst-BlockAll-dcl-L100"
+    },
+    {
       "typeRule": "Dirt_Mound_I-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Dirt_Mound_I-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "Dirt_Mound_I-Sururbs_Dirt_Fix_Inst-BlockAll-dcl-L100"
+    },
+    {
       "typeRule": "Dirt_Mound_I-Sururbs_Dirt_Inst_StoneDark-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_J-MI_Mines_Dirt-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_K-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_L-MI_Mines_Dirt-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dirt_Mound_M-City_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Drake_NestBase_DirtMound-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dwelling_Scatter_Clothing_Shoes_A-MI_Dwelling_Scatter_Clothing_Shoes-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dwelling_Scatter_Clothing_Shoes_C-MI_Dwelling_Scatter_Clothing_Shoes-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Dwelling_Tapestry-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Mining_Dirt_Mound_A-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Mining_Dirt_Mound_A-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "Mining_Dirt_Mound_B-Outdoor_Snow_Inst-BlockAll-dcl-L100"
+    },
+    {
       "typeRule": "Mining_Dirt_Mound_B-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Mining_Dirt_Mound_C-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "OrcBanner-BlockAll-dcl-L100"
     },
     {
       "typeRule": "OrcBanner_C-MI_OrcBanners-BlockAll-dcl-L100"
@@ -161,6 +314,33 @@
     },
     {
       "typeRule": "OrcBanner_F-MI_OrcBanners-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Barricade_Palisade-MI_Orc_Palissade_Mat_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Boards_2x3m-MI_Orc_Scaffolding_Platforms_Inst-MI_Orc_Scaffolding_Poles-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Fort_9X9_Mound-MI_DirtMound_Suburbs_Dirt-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Fort_9X9_Mound-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Palissade_Gate_Medium_L-MI_Orc_Palissade_Mat_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Palissade_Post_A_Medium-MI_Orc_Palissade_Mat_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Palissade_Post_A_Medium-MI_Orc_Palissade_Mat_Inst-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Palissade_Wall_3X3M_A-MI_Orc_Scaffolding_Platforms-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Palissade_Wall_3X3M_B2-MI_Orc_Scaffolding_Platforms-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Orc_Post_A-MI_Orc_Palissade_Mat_Inst-BlockAll-dcl-L100"
@@ -178,6 +358,18 @@
       "typeRule": "Orc_Post_E-MI_Orc_Palissade_Mat_Inst-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "Orc_Post_Large_B-MI_Orc_Palissade_Mat_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Scaffolding_Platform_3x3M_A-MI_Orc_Scaffolding_Platforms-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Scaffolding_Post_1m_A-MI_Orc_Scaffolding_Poles-Destructible-3F-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Scaffolding_Post_1m_D-MI_Orc_Scaffolding_Poles-BlockAll-dcl-L100"
+    },
+    {
       "typeRule": "Orc_Scaffolding_Post_2m_D-MI_Orc_Scaffolding_Poles-BlockAll-dcl-L100"
     },
     {
@@ -185,6 +377,9 @@
     },
     {
       "typeRule": "Orc_Scaffolding_Post_3m_C-MI_Orc_Scaffolding_Poles-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Orc_Scaffolding_Post_3m_D-MI_Orc_Scaffolding_Poles-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Orc_Scaffolding_Post_4m_C-MI_Orc_Scaffolding_Poles-BlockAll-dcl-L100"
@@ -199,10 +394,52 @@
       "typeRule": "Orc_Shanty_Tent_Medium_A_Custom_Mound_B-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "PWM_City_1X1x1_C-ProcMaterial_City_1m_C-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_City_1x1x1_A_-ProcMaterial_City_1m-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_City_2x2x2_A-ProcMaterial_City_2m-BlockAll-dcl-L100"
+    },
+    {
       "typeRule": "PWM_City_RockDebris_A-ProcMaterial_City_RockDebris_A-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "PWM_City_RockDebris_A_Tagged-ProcMaterial_City_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_1X1x1_C-ProcMaterial_Quarry_Atlas-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_1x1x1_A-ProcMaterial_Quarry_Atlas-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_2x2x2_A-ProcMaterial_Quarry_Atlas-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A-ProcMaterial_City_RockDebris_A-NoCollision-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A-ProcMaterial_Quarry_Atlas_5-NoCollision-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A-ProcMaterial_Quarry_RockDebris_A-NoCollision-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A_Optimized-ProcMaterial_Quarry_RockDebris_A-NoCollision-dcl-L100"
+    },
+    {
       "typeRule": "PWM_Quarry_RockDebris_A_Tagged-ProcMaterial_Quarry_Atlas-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A_Tagged-ProcMaterial_Quarry_Atlas_5-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_A_Tagged-ProcMaterial_Quarry_Atlas_5-NoCollision-dcl-L100"
+    },
+    {
+      "typeRule": "PWM_Quarry_RockDebris_B-City_Dirt_Inst_Darker-BlockAll-dcl-L100"
     },
     {
       "typeRule": "PWM_Quarry_RockDebris_B-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
@@ -214,181 +451,25 @@
       "typeRule": "PWM_Quarry_RockDebris_C-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "SM_Banner_BB-MI_Cloth_Banners_A_Red-BlockAll-dcl-L100"
+      "typeRule": "Remains_Bones_Assemblage_C-MI_Orc_Shanty_Midden_Mat_Inst2-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "SM_Debris_Floor_01-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+      "typeRule": "Rubble_Masonry_Pile_F_Optimized-MI_Rubble_Masonry_Pile_Atlas_Inst_B-MI_Rubble_Masonry_Pile_Atlas_Inst_A-Destructible-3F-dcl-L100"
     },
     {
-      "typeRule": "Suburbs_Dirt_Mound_A-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+      "typeRule": "Rubble_Masonry_Pile_F_Optimized-MI_Rubble_Masonry_Pile_Atlas_Inst_B_Snow-MI_Rubble_Masonry_Pile_Atlas_Inst_A_Snow-Destructible-3F-dcl-L100"
     },
     {
-      "typeRule": "Suburbs_Dirt_Mound_B-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
+      "typeRule": "Rubble_Masonry_large_A-MI_Ruin_Wall_IndStone2-MI_Ruin_Wall_IndStone3-MI_Ruin_Wall_IndStone1-MI_Rubble_Masonry_Pile_06_Inst-Destructible-3F-dcl-L100"
     },
     {
-      "typeRule": "Suburbs_Dirt_Mound_B-Sururbs_Dirt_Inst_StoneDark-BlockAll-dcl-L100"
+      "typeRule": "Rubble_Masonry_large_B-MI_Ruin_Wall_IndStone3-MI_Ruin_Wall_IndStone2-MI_Rubble_Masonry_Pile_06_Inst-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "Suburbs_Dirt_Mound_C-MI_DirtMound_Mines-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Dirt_Mound_C-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Rug_End_3M-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Rug_Flat_3M-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Rug_Flat_6M-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Rug_Single-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Rug_Stair_1x3M-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_BannerPole-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Banner_AA-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Banner_BB-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "OrcBanner-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Warren_lighting_Banner-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "BP_DM_Deco_Orc_Banner-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "BP_DM_Warren_lighting_Banner-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Dwelling_Tapestry-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SpiderWeb-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SpiderWeb3_placeholder-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SpiderWeb_Mines-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "D_Weapon_IronHills-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "D_Weapon_Khazad-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "D_Weapon_Steel-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "D_Weapon_Rohan-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "DetailRope5-RopeDetails_M-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Dirt_Mound_M-City_Dirt_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Orc_Boards_2x3m-MI_Orc_Scaffolding_Platforms_Inst-MI_Orc_Scaffolding_Poles-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Orc_Palissade_Gate_Medium_L-MI_Orc_Palissade_Mat_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Orc_Palissade_Post_A_Medium-MI_Orc_Palissade_Mat_Inst-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Orc_Palissade_Wall_3X3M_A-MI_Orc_Scaffolding_Platforms-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Orc_Palissade_Wall_3X3M_B2-MI_Orc_Scaffolding_Platforms-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Orc_Scaffolding_Platform_3x3M_A-MI_Orc_Scaffolding_Platforms-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "PWM_City_RockDebris_A_Tagged-ProcMaterial_City_RockDebris_A-BlockAll-dcl-L100"
+      "typeRule": "Rubble_Masonry_large_F-MI_Ruin_Wall_IndStone1-MI_Ruin_Wall_IndStone3-MI_Ruin_Wall_IndStone2-MI_Rubble_Masonry_Pile_06_Inst-BlockAll-dcl-L100"
     },
     {
       "typeRule": "Rubble_Masonry_single_rock-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Banner_AB-MI_Cloth_Banners_A_Red-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Banner_CA-MI_Cloth_Banners_A_Red-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Banner_CB-MI_Cloth_Banners_A_Red-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Banner_DB-MI_Cloth_Banners_A_Red-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Column_Large_A_A_Shaft_Ruined-MI_Suburbs_Column_Large_A_Shaft_Ruined-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Column_Large_A_C_Capitol_Ruined-MI_Suburbs_Column_Large_A_Shaft_Ruined-MI_Suburbs_Column_Large_A_Capitol_Ruined-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Column_Large_A_A_Base_Ruined-MI_Suburbs_Column_Large_A_Base_Ruined-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Dirt_Mound_B-MI_DirtMound_Mines-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Dirt_Mound_B-MI_Mines_Dirt-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Dirt_Mound_B-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Debris_Floor_02-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Debris_Floor_03-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Debris_Floor_04-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Debris_Floor_05-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Debris_Floor_06-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "SM_Debris_Floor_07-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "PWM_Quarry_RockDebris_A-ProcMaterial_Quarry_Atlas_5-NoCollision-dcl-L100"
-    },
-    {
-      "typeRule": "PWM_Quarry_RockDebris_A-ProcMaterial_Quarry_RockDebris_A-NoCollision-dcl-L100"
-    },
-    {
-      "typeRule": "PWM_Quarry_RockDebris_A-ProcMaterial_City_RockDebris_A-NoCollision-dcl-L100"
-    },
-    {
-      "typeRule": "PWM_Quarry_RockDebris_A_Tagged-ProcMaterial_Quarry_Atlas_5-NoCollision-dcl-L100"
-    },
-    {
-      "typeRule": "PWM_Quarry_RockDebris_A_Tagged-ProcMaterial_Quarry_Atlas_5-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "PWM_Quarry_RockDebris_A_Optimized-ProcMaterial_Quarry_RockDebris_A-NoCollision-dcl-L100"
     },
     {
       "typeRule": "Rubble_Masonry_single_rock_01-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
@@ -427,136 +508,19 @@
       "typeRule": "Rubble_Masonry_single_rock_24-MI_Rubble_Masonry_Pile_Atlas_Inst_B-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "Dwelling_Scatter_Clothing_Shoes_A-MI_Dwelling_Scatter_Clothing_Shoes-BlockAll-dcl-L100"
+      "typeRule": "Rug_End_3M-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "Dwelling_Scatter_Clothing_Shoes_C-MI_Dwelling_Scatter_Clothing_Shoes-BlockAll-dcl-L100"
+      "typeRule": "Rug_Flat_3M-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "Suburbs_Floor_Stone_IND_A-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+      "typeRule": "Rug_Flat_6M-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "Suburbs_Floor_Stone_IND_B-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+      "typeRule": "Rug_Single-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "Suburbs_Floor_Stone_IND_C-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Floor_Stone_IND_D-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Floor_Stone_IND_E-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Floor_Stone_IND_F-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "BP_DM_Mine_tailings_Debris-Breakable-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Dirt_Mound_K-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Dirt_Mound_Flat_D-MI_DirtMound_Mines-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Orc_Fort_9X9_Mound-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "City_Floor_3x3m_Detail_A-MI_City_Floor-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "City_Floor_3x3m_Detail_B-MI_City_Floor-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Dirt_Mound_B-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Dirt_Mound_E-MI_DirtMound_Suburbs_Dirt-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Dirt_Mound_J-MI_Mines_Dirt-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Orc_Scaffolding_Post_1m_D-MI_Orc_Scaffolding_Poles-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Dirt_Mound_A-Suburbs_Dirt_Inst-Destructible-3F-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Dirt_Mound_C-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Dirt_Mound_C-Suburbs_Dirt_Inst-Destructible-3F-dcl-L100"
-    },
-    {
-      "typeRule": "Suburbs_Dirt_Mound_D-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_A-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_B-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_C-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_D_L-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_D_R-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_Detail-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_F-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_G-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_H-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_I-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalBrace_J-MI_Deep_MetalBrace-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_BoneHoard_B-BoneHoard_Bone_Mount_Inst1-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_BoneHoard_E-BoneHoard_Bone_Mount_Inst1-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_MetalCage-MI_Suburbs_Trim_Sheet_B-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Deep_WoodenBeam_B-MI_Deep_WoodTrim-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Dirt_Mound_L-MI_Mines_Dirt-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Orc_Scaffolding_Post_1m_A-MI_Orc_Scaffolding_Poles-Destructible-3F-dcl-L100"
-    },
-    {
-      "typeRule": "Remains_Bones_Assemblage_C-MI_Orc_Shanty_Midden_Mat_Inst2-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Rubble_Masonry_large_A-MI_Ruin_Wall_IndStone2-MI_Ruin_Wall_IndStone3-MI_Ruin_Wall_IndStone1-MI_Rubble_Masonry_Pile_06_Inst-Destructible-3F-dcl-L100"
-    },
-    {
-      "typeRule": "Rubble_Masonry_large_B-MI_Ruin_Wall_IndStone3-MI_Ruin_Wall_IndStone2-MI_Rubble_Masonry_Pile_06_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Rubble_Masonry_large_F-MI_Ruin_Wall_IndStone1-MI_Ruin_Wall_IndStone3-MI_Ruin_Wall_IndStone2-MI_Rubble_Masonry_Pile_06_Inst-BlockAll-dcl-L100"
-    },
-    {
-      "typeRule": "Drake_NestBase_DirtMound-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+      "typeRule": "Rug_Stair_1x3M-BlockAll-dcl-L100"
     },
     {
       "typeRule": "SM_AR_Floor_Stone_100x100x010_A-MI_ArchSimple_Stone_Foundation_A_MAT-BlockAll-dcl-L100"
@@ -571,6 +535,120 @@
       "typeRule": "SM_AR_Floor_Stone_100x100x010_C-MI_ArchSimple_Stone_Damaged_A_MAT-MI_ArchSimple_Stone_Floor_A_MAT-BlockAll-dcl-L100"
     },
     {
+      "typeRule": "SM_BannerPole-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Banner_AA-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Banner_AB-MI_Cloth_Banners_A_Red-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Banner_BB-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Banner_BB-MI_Cloth_Banners_A_Red-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Banner_CA-MI_Cloth_Banners_A_Red-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Banner_CB-MI_Cloth_Banners_A_Red-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Banner_DB-MI_Cloth_Banners_A_Red-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_01-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_02-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_03-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_04-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_05-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_06-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SM_Debris_Floor_07-ProcMaterial_Quarry_RockDebris_A-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SpiderWeb-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SpiderWeb3_placeholder-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "SpiderWeb_Mines-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Column_Large_A_A_Base_Ruined-MI_Suburbs_Column_Large_A_Base_Ruined-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Column_Large_A_A_Shaft_Ruined-MI_Suburbs_Column_Large_A_Shaft_Ruined-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Column_Large_A_C_Capitol_Ruined-MI_Suburbs_Column_Large_A_Shaft_Ruined-MI_Suburbs_Column_Large_A_Capitol_Ruined-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_A-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_A-Suburbs_Dirt_Inst-Destructible-3F-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_B-MI_DirtMound_Mines-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_B-MI_Mines_Dirt-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_B-Outdoor_Snow_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_B-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_B-Suburbs_Dirt_Inst-Destructible-3F-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_B-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_B-Sururbs_Dirt_Inst_StoneDark-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_C-City_Dirt_Inst_Darker-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_C-MI_DirtMound_Mines-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_C-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_C-Suburbs_Dirt_Inst-Destructible-3F-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_C-Sururbs_Dirt_DarkELQ_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_D-Suburbs_Dirt_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_D-Suburbs_Dirt_Inst-Destructible-3F-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Dirt_Mound_Flat_D-MI_DirtMound_Mines-BlockAll-dcl-L100"
+    },
+    {
       "typeRule": "Suburbs_Floor_3x3m_Detail_A-MI_Suburbs_Floor_A_inst-BlockAll-dcl-L100"
     },
     {
@@ -580,16 +658,28 @@
       "typeRule": "Suburbs_Floor_3x3m_Detail_C-MI_Suburbs_Floor_A_inst-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "Orc_Palissade_Post_A_Medium-MI_Orc_Palissade_Mat_Inst-BlockAll-dcl-L100"
+      "typeRule": "Suburbs_Floor_Stone_IND_A-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "Orc_Scaffolding_Post_3m_D-MI_Orc_Scaffolding_Poles-BlockAll-dcl-L100"
+      "typeRule": "Suburbs_Floor_Stone_IND_B-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "Orc_Post_Large_B-MI_Orc_Palissade_Mat_Inst-BlockAll-dcl-L100"
+      "typeRule": "Suburbs_Floor_Stone_IND_C-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
     },
     {
-      "typeRule": "Orc_Barricade_Palisade-MI_Orc_Palissade_Mat_Inst-BlockAll-dcl-L100"
+      "typeRule": "Suburbs_Floor_Stone_IND_C-MI_Suburbs_Floor_Stone_IND_MAT_Inst_Dest_Darker-MI_Suburbs_Floor_Stone_IND_MAT_Inst_Dest-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Floor_Stone_IND_D-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Floor_Stone_IND_E-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Suburbs_Floor_Stone_IND_F-MI_Suburbs_Floor_Stone_IND_MAT_Inst-BlockAll-dcl-L100"
+    },
+    {
+      "typeRule": "Warren_lighting_Banner-BlockAll-dcl-L100"
     }
   ],
   "bubble_type_rules": [
